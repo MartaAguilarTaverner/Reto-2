@@ -1,0 +1,8 @@
+body {
+    height: 100vh;
+    display: flex;
+}
+
+.bluecol {
+    color: rgb(59, 126, 250);
+}
